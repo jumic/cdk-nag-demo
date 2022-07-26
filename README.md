@@ -1,1 +1,1 @@
-# replace this
+# cdk-nag demo, German CDK Happy Hour
